@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TCS",
+    "shares": 100,
+    "price": 3200
+  },
+  {
+    "name": "Infosys",
+    "shares": 150,
+    "price": 1450
+  },
+  {
+    "name": "Wipro",
+    "shares": 200,
+    "price": 500
+  }
+]

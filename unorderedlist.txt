@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+banana,grape,mango,orange,peach,apple
+=======
+banana,grape,mango,orange,peach,apple,77
+>>>>>>> 7a66887 (second commit)

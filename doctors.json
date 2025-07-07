@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dr. Sharma",
+    "id": 101,
+    "specialization": "Cardiologist",
+    "availability": "Both"
+  },
+  {
+    "name": "Dr. Rao",
+    "id": 102,
+    "specialization": "Dermatologist",
+    "availability": "Both"
+  },
+  {
+    "name": "Dr. Patel",
+    "id": 103,
+    "specialization": "Dentist",
+    "availability": "Both"
+  }
+]

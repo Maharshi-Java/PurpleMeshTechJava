@@ -1,0 +1,26 @@
+[ {
+  "symbol" : "TCS",
+  "shares" : 15,
+  "price" : 3400.0,
+  "time" : "2025-07-07T18:44:22.8837346"
+}, {
+  "symbol" : "BAJFINANCE",
+  "shares" : 30,
+  "price" : 7100.0,
+  "time" : null
+}, {
+  "symbol" : "INFY",
+  "shares" : 40,
+  "price" : 1500.0,
+  "time" : "2025-07-07T18:44:22.9007289"
+}, {
+  "symbol" : "HDFCBANK",
+  "shares" : 50,
+  "price" : 1400.0,
+  "time" : null
+}, {
+  "symbol" : "RELIANCE",
+  "shares" : 25,
+  "price" : 2300.0,
+  "time" : null
+} ]
